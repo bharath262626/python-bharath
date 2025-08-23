@@ -12,5 +12,5 @@ print("module (remainder):", result2)
 
 
 # Absolute Value
-result3 = abs(10)
+result3 = abs(-10)
 print("Absolute Value:", result3)
