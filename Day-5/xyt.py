@@ -6,4 +6,7 @@ for vms in my_file:
     print(vms)
         
 
-
+for vm2 in my_file:
+    if vm2 == "ec22":
+        continue
+    print(vm2)
